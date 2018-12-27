@@ -1,0 +1,12 @@
+<root><reading><time>11</time><temperature>21</temperature></reading>
+<reading><time>3</time><temperature>20</temperature></reading>
+<reading><time>15</time><temperature>25</temperature></reading>
+<reading><time>18</time><temperature>34</temperature></reading>
+<reading><time>10</time><temperature>29</temperature></reading>
+<reading><time>21</time><temperature>10</temperature></reading>
+<reading><time>13</time><temperature>20</temperature></reading>
+<reading><time>5</time><temperature>15</temperature></reading>
+<reading><time>17</time><temperature>12</temperature></reading>
+<reading><time>9</time><temperature>18</temperature></reading>
+<reading><time>22</time><temperature>31</temperature></reading>
+<reading><time>23</time><temperature>18</temperature></reading></root>
